@@ -4,7 +4,7 @@ local DINOHUB = Instance.new("ScreenGui")
 local OPENCLOSE = Instance.new("TextButton")
 
 
-DINOHUB.Name = "zerex Hub"
+DINOHUB.Name = "fluke Hub"
 DINOHUB.Parent = game.CoreGui
 DINOHUB.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
